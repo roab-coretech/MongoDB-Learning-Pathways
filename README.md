@@ -54,7 +54,7 @@ To start using this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MongoDB-Learning-Pathways.git
+   git clone https://github.com/lamoregedion/MongoDB-Learning-Pathways.git
    ```
 
 2. Navigate to the repository folder:
