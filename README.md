@@ -9,7 +9,7 @@ Welcome to the **MongoDB Learning Pathways** repository! This repository is desi
 1. [Introduction](#introduction)
 2. [Learning Objectives](#learning-objectives)
 3. [Getting Started](#getting-started)
-4. [Topics Covered](#topics-covered)
+4. [Learning Paths](#learning-paths)
 5. [Repository Structure](#repository-structure)
 6. [Contributing](#contributing)
 7. [License](#license)
@@ -54,7 +54,7 @@ To start using this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lamoregedion/MongoDB-Learning-Pathways.git
+   git clone https://github.com/your-username/MongoDB-Learning-Pathways.git
    ```
 
 2. Navigate to the repository folder:
@@ -66,48 +66,35 @@ To start using this repository:
 
 ---
 
-## Topics Covered
+## Learning Paths
 
-1. **Introduction to MongoDB**
-   - Overview and Architecture
-   - Installation and Setup (Linux, Windows, macOS)
+1. **MongoDB Associate Developer Path**
+   - Learn to build modern applications using MongoDB with popular programming languages like Node.js, Python, Java, PHP, or C#.
+   - Topics Covered:
+     - CRUD Operations
+     - Aggregation Framework
+     - Indexing for Performance
 
-2. **CRUD Operations**
-   - Inserting, Reading, Updating, and Deleting Data
-   - Query Operators and Projections
+2. **MongoDB Associate Database Administrator Path**
+   - Master the skills to build, support, and secure MongoDB infrastructure.
+   - Topics Covered:
+     - Installation and Setup
+     - Replication and High Availability
+     - Backup and Recovery Strategies
 
-3. **Indexing**
-   - Types of Indexes
-   - Performance Optimization
+3. **MongoDB Associate Data Modeler Path**
+   - Demonstrate expertise in designing, building, and evolving effective MongoDB data models.
+   - Topics Covered:
+     - Data Modeling Principles
+     - Schema Design Best Practices
+     - Advanced Use Cases
 
-4. **Aggregation Framework**
-   - Aggregation Pipelines
-   - Common Use Cases
-
-5. **Replication and High Availability**
-   - Replica Sets
-   - Failover Testing
-
-6. **Sharding for Scalability**
-   - Shard Keys and Partitioning
-   - Managing Sharded Clusters
-
-7. **MongoDB Atlas**
-   - Cloud Deployment
-   - Monitoring and Backups
-   - Advanced Security Configurations
-
-8. **Performance Tuning and Optimization**
-   - Query Profiling
-   - Resource Allocation
-
-9. **Backup and Recovery**
-   - Strategies and Tools
-   - Restoring Data
-
-10. **Certification Preparation**
-    - Practice Exercises
-    - Tips and Resources
+4. **MongoDB Associate Atlas Administrator Path**
+   - Learn to design, operate, and manage MongoDB Atlas deployments.
+   - Topics Covered:
+     - Cloud Deployment with MongoDB Atlas
+     - Security Configurations
+     - Monitoring and Performance Optimization
 
 ---
 
